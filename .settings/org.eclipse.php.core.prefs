@@ -1,3 +1,5 @@
 eclipse.preferences.version=1
-include_path=0;/zf2-backbone-boilerplate
+include_path=0;/zf2-backbone-boilerplate/lib\u00050;/zf2-backbone-boilerplate/src
+phpVersion=php5.4
+useShortTags=true
 use_asp_tags_as_php=false
