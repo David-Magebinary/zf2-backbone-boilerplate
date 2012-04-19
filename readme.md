@@ -1,9 +1,9 @@
-Backbone Boilerplate
-====================
+Zend Framework2 & Backbone Boilerplate
+======================================
 
-This boilerplate is the product of much research and frustration.  Existing
-boilerplates freely modify Backbone core, lack a build process, and are
-very prescriptive; this boilerplate changes that.
+This boilerplate helps to get started with Zend Framework 2 and backbone. It is based 
+on the original backbone-boilerplate project and adds an easy way to write
+Zend Framework 2 apps.
 
 Organize your application in a logical filesystem, develop your
 Models/Collections/Views/Routers inside modules, and build knowing you have
